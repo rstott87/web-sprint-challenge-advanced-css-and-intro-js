@@ -1,3 +1,4 @@
+/** test to push* */
 export const artists = [
     {
       "id": 0,
